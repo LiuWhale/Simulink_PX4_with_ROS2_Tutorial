@@ -12,7 +12,7 @@ Java 版本: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit 
 - ROS2: Foxy
 
 - Ubuntu ：20.04 LTS (VM)
-  - 百度网盘链接：https://pan.baidu.com/s/1d2YFPBicAeilyect_Mlt8g 提取码：yyds 
+  - 百度网盘链接:https://pan.baidu.com/s/1jokF9LrOYgt5PmvIFKBi5w  提取码：yyds 
   - 用户名: user
   - 密码: password
 ------------------------------------------------------------------------------------------------
