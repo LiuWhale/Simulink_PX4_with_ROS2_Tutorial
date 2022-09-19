@@ -1,4 +1,6 @@
 # README
+Videos:
+  - [基于Simulink的ROS2下PX4无人机控制框架-入门篇](https://www.bilibili.com/video/BV1gF411T7st?share_source=copy_web)
 >使用方法：使用Matlab打开工程所在目录，双击.prj文件打开工程，先将px4_msgs编译出。
 
 - MATLAB : 9.12.0.1884302 (R2022a)
@@ -10,7 +12,7 @@ Java 版本: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit 
 - ROS2: Foxy
 
 - Ubuntu ：20.04 LTS (VM)
-  - 百度网盘链接：https://pan.baidu.com/s/1d2YFPBicAeilyect_Mlt8g 提取码：yyds 
+  - 百度网盘链接:https://pan.baidu.com/s/1jokF9LrOYgt5PmvIFKBi5w  提取码：yyds 
   - 用户名: user
   - 密码: password
 ------------------------------------------------------------------------------------------------
